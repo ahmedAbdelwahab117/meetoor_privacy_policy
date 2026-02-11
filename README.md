@@ -39,7 +39,7 @@ Location
 
 Pictures and other information from your device's camera and photo library
 
-Important: Images and other media you upload may be stored and processed on https://meetoorcdn.cyparta.com/
+Important: Images and other media you upload may be stored and processed on https://cdn.meetoor.com
 . You can enable or disable access to this information at any time through your device settings.
 
 2.3 How We Use Your Data
